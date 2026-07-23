@@ -57,7 +57,7 @@ div[data-testid="stVerticalBlock"]{
 </style>
 """, unsafe_allow_html=True)
 # ---------- Header ----------
-st.markdown("<h1 class='main-title'>🧮 Trendy Calculator</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-title'>💻 Trendy Calculator</h1>", unsafe_allow_html=True)
 st.markdown("<p class='subtitle'>Simple • Fast • Beautiful</p>", unsafe_allow_html=True)
 # ---------- Inputs ----------
 col1, col2 = st.columns(2)
