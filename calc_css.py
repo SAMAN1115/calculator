@@ -1,5 +1,4 @@
 import streamlit as st
-# Page Configuration
 st.set_page_config(
     page_title="Stylish Calculator",
     page_icon="🧮",
