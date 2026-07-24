@@ -65,7 +65,6 @@ operation = st.selectbox(
     "✨ Select Operation",
     ["➕ Add", "➖ Subtract", "✖ Multiply", "➗ Divide"]
 )
-# ---------- Calculate ----------
 if st.button("🚀 Calculate"):
     if operation == "➕ Add":
         ans = num1 + num2
