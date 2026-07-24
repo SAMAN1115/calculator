@@ -5,7 +5,6 @@ st.set_page_config(
     page_icon="🧮",
     layout="centered"
 )
-# ---------- Custom CSS ----------
 st.markdown("""
 <style>
 .stApp{
